@@ -1,5 +1,5 @@
 # Wellcome to my world 
-- 👋 Hi, I’m **Collins Olawale Akala
+- 👋 Hi, I’m **Collins Olawale Akala**
 - 👀 I’m interested in python for data analysis, machine learning 
 - 🌱 I’m currently working on differenet python project for data analysis and machine learning 
 - 💞️ I’m looking to collaborate on any python for data analysis project
