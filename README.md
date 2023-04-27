@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on differenet python project for data analysis and machine learning 
 - 💞️ I’m looking to collaborate on any python for data analysis project
 - 📫 You can reach me through my email address collins1olawale@gmail.com
-- Also on [linkedIn](www.linkedin.com/in/collins-olawale-210b1a125)
+- Also on [LinkedIn](www.linkedin.com/in/collins-olawale-210b1a125)
 
 <!---
 PopeCollins/PopeCollins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
